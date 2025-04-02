@@ -5,13 +5,12 @@ Front End Road Map :
 2. CSS
   -. Animation
 3. JS
-  -. Asynchronous
-  -. API
+  -. Synchronous
+  -. fetch
 4. Git & GitHub
 5. NodeJS
-6. CLI
-7. ReactJS
-8. Tailwind CSS / BootStrap CSS
+6. ReactJS
+7. Tailwind CSS / BootStrap CSS
 
 Back End Road Map :
 1. php / Python
