@@ -3,7 +3,10 @@ Rencana Coding Stan
 Front End Road Map :
 1. HTML
 2. CSS
+  -. Animation
 3. JS
+  -. Asynchronous
+  -. API
 4. Git & GitHub
 5. NodeJS
 6. CLI
@@ -12,3 +15,6 @@ Front End Road Map :
 
 Back End Road Map :
 1. php / Python
+
+Game Engine: 
+1. Godot (GDScript)
