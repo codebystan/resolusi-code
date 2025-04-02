@@ -1,0 +1,4 @@
+Stan Coding Resolution
+-. Konsisten belajar coding setiap hari minimal 2 jam sehari.
+-. Di akhir tahun 2025, sudah menguasai JS dengan lancar.
+-. Membuat sebuah projek website sendiri yang cantik.
